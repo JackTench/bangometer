@@ -77,3 +77,6 @@ if 6 < opentickets <= 10:
 if opentickets > 10:
     print("The bang out levels are off the scale! Break out the knuckle dusters!")
     print("You have " + str(opentickets) + " tickets open. You're facing jail time at this point.")
+    
+while True:
+    time.sleep(20)
