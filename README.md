@@ -1,4 +1,4 @@
-# bangometer
+# The Bang-Out-O-Meter
 A funny spiceworks API toy. Works out if you need to start knocking people out based on how many tickets are open.
 
 Instructions:
